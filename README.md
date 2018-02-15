@@ -8,7 +8,9 @@ command with the output:
 6. ls-list all diectory
 7. echo- repeat the wrriten word
 8. cat- show content of the file
+
 9. who- displays a list of users who are currently logged into the computer
+
 10.cd-change current directory
 11.date-show date
 12.cal-calender
